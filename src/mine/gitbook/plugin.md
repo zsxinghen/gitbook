@@ -1,0 +1,1 @@
+1、[插件安装](https://www.jianshu.com/p/9457ba0a013b)

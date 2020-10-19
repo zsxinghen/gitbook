@@ -1,0 +1,8 @@
+[vue移动端预览pdf功能](https://blog.csdn.net/qq_39584800/article/details/87181731)
+[vue 刷新不闪烁](https://juejin.im/post/6844903790613659655)
+[Vue页面跳转动画效果实现](https://juejin.im/post/6844903682467856397#heading-10)
+[element源码](https://github.com/ElemeFE/element/blob/dev/packages/message/src/main.js)
+[Vue生命周期全解（vueRouter,keep-alive,生命周期）](https://ithack.github.io/2018/09/26/Vue%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E5%85%A8%E8%A7%A3%EF%BC%88vueRouter-keep-alive-%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%EF%BC%89.html)
+[vue切换路由，watch内的函数被重复触发多次](https://segmentfault.com/q/1010000016167912)
+[v-if 与 v-for 的优先级对比](https://v3.cn.vuejs.org/guide/migration/v-if-v-for.html#%E6%A6%82%E8%A7%88)
+[高性能渲染十万条数据(虚拟列表)](https://cloud.tencent.com/developer/article/1533206)
